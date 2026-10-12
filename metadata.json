@@ -1,0 +1,7 @@
+{
+  "name": "Bisma Academy Gujranwala",
+  "description": "Bisma Academy (بسمہ اکیڈمی) - معیاری اور جدید تعلیمی ادارہ، نرسری تا جماعت پنجم۔ نوشہرہ روڈ، مومن آباد، گوجرانوالہ۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
